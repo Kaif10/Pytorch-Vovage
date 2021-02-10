@@ -5,6 +5,7 @@ Pytorch Basics
 
 Getting Started with Basic Operations in PyTorch: 
 
-![Notebook](https://github.com/Kaif10/Getting-started-with-Pytorch/blob/main/Pytorch_Basics.ipynb)
+[Notebook](https://github.com/Kaif10/Getting-started-with-Pytorch/blob/main/Pytorch_Basics.ipynb)
+
 
 Simple Neural Network with Pytorch: Notebook:
