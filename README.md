@@ -1,5 +1,7 @@
 ## Work in progress
 
+https://github.com/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial3/Activation_Functions.ipynb
+
 # Getting-started-with-Pytorch
 Pytorch Basics
 
